@@ -18,7 +18,7 @@
 ## Scripting
 
 ### To see the output (from within 'scripting' directory):
-```python parseData.py dataset/```
+```python parseData.py dataset/*.json```
 
 ### To save the output (from within 'scripting' directory):
-```python parseData.py dataset/ > questions.txt```
+```python parseData.py dataset/*.json > questions.txt```
