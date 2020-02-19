@@ -29,6 +29,9 @@ def fullClean(line):
         cleanedLine = cleanedLine.replace('thank you', '')
         cleanedLine = cleanedLine.replace('please', '')
         cleanedLine = cleanedLine.replace('can you', '')
+        cleanedLine = cleanedLine.replace('what\'s in', 'what is in')
+        cleanedLine = cleanedLine.replace('what\'s on', 'what is on')
+
         cleanedLine = cleanedLine.strip()
         cleanedLine = cleanedLine.strip(punctuation)
         cleanedLine = cleanedLine.replace('  ', ' ')

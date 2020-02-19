@@ -1,0 +1,10 @@
+## intent:locate_object
+- where's the [bowl](object)
+- where's the [spoon](object)
+- where's the [milk bottle](object)
+- where's the [milk](object)
+- where's the [water](object)
+- where's the [chocolate](object)
+- where's the [box of cereals](object)
+- where's the [cake rack](object)
+- where's the [wire rack](object)

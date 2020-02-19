@@ -1,13 +1,4 @@
 ## intent:locate_object
-- where's the [wire rack](object)
-- where's the [cake rack](object)
-- where's the [box of cereals](object)
-- where's the [chocolate](object)
-- where's the [water](object)
-- where's the [milk](object)
-- where's the [milk bottle](object)
-- where's the [spoon](object)
-- where's the [bowl](object)
 - where is the [bowl](object)
 - where is the [spoon](object)
 - where is the [milk bottle](object)
@@ -20,4 +11,3 @@
 
 ## lookup:object
 lookup/objects.txt
-

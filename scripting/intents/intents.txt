@@ -1,0 +1,6 @@
+#intent:type (od = object detection, ocr = optical character recognition)
+locate_object:od
+identify_object:od
+identify_specificity:od
+read_text:ocr
+read_instructions:ocr
