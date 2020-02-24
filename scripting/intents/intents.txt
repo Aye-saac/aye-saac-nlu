@@ -5,3 +5,9 @@ identify_specificity:od
 read_text:ocr
 read_instructions:ocr
 compare_object:od
+
+##attributes
+#object
+#possessed
+#not_possessed
+#property
