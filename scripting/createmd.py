@@ -65,8 +65,9 @@ def mergeContentsHandler(output: str):
                     line = lines[i]
                     if line.startswith("## intent:") or line.startswith("## synonym:") or line.startswith("## lookup:") or line.startswith("## regex:"):
                         try:
-                            index = lines[(i+1):].index(line) + (i + 1)
-                            mergeContents(lines, i, index)
+                            while (True):
+                                index = lines[(i+1):].index(line) + (i + 1)
+                                mergeContents(lines, i, index)
                         except ValueError:
                             pass
                     # print("i => " + str(i) + " = " + lines[i].strip())

@@ -1,0 +1,12 @@
+## intent:compare_object
+- is this a [box of cereal](object)
+- is this a [fork](object)
+- is this a [spoon](object)
+- is this a [bowl](object)
+- is this a [milk](object)
+- is this a [water](object)
+- is this a [cup](object)
+- is this a [milk bottle](object)
+- is this a [chocolate](object)
+- is this a [care rack](object)
+- is this a [wire rack](object)

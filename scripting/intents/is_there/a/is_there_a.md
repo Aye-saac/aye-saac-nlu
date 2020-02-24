@@ -1,0 +1,12 @@
+## intent:locate_object
+- is there a [box of cereal](object)
+- is there a [fork](object)
+- is there a [spoon](object)
+- is there a [bowl](object)
+- is there a [milk](object)
+- is there a [water](object)
+- is there a [cup](object)
+- is there a [milk bottle](object)
+- is there a [chocolate](object)
+- is there a [care rack](object)
+- is there a [wire rack](object)

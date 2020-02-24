@@ -4,3 +4,4 @@ identify_object:od
 identify_specificity:od
 read_text:ocr
 read_instructions:ocr
+compare_object:od
