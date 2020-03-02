@@ -24,7 +24,6 @@ is there a doggie on the road? is there a doggie on the roof
 is there a done button and a next button
 is there a dot on my neck, or a bump
 is there a fragrance listed on this tube
-is there a green light
 is there a key code on this office 2010 disk
 is there a label on this multi-purpose sprayer
 is there a light in the room
@@ -64,7 +63,6 @@ is there a product name or code on this tag
 is there a progress bar visible
 is there a purpose to the blue tiles or are they just a design
 is there a queens head on this fifty cent
-is there a red light
 is there a red packet on the table
 is there a santa claus on the wall
 is there a serial number on this battery
@@ -79,4 +77,3 @@ is there a tv on top of this dresser
 is there a visible model number here
 is there a visible model number on the front here
 is there a way to have the record sound changed because i can't hear it, also what is a package i'm here scanning and are there any other applications that i could use
-is there a window

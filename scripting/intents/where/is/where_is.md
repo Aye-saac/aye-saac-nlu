@@ -28,10 +28,10 @@
 - where is [telephone](object)
 - where is [that](object)
 - where is [this](object)
-- where is [this item](object)
-- where is [this shirt](object)
-- where is [this table](object)
-- where is [this top](object)
+- where is this [item](object)
+- where is this [shirt](object)
+- where is this [table](object)
+- where is this [top](object)
 - where is [my](possessed) [black](property) [braille](property) [book](object)
 - where is [my](possessed) [brush](object)
 - where is [my](possessed) [cane](object)
@@ -45,4 +45,4 @@
 - where is [my](possessed) [water](property) [bottle](object)
 
 ## lookup:object
-lookup/objects.txt
+entries/objects.txt

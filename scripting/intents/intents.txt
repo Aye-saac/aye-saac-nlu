@@ -11,3 +11,5 @@ compare_object:od
 #possessed
 #not_possessed
 #property
+#location
+#area

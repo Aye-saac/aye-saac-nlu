@@ -10,3 +10,6 @@
 - is there [chocolate](object)
 - is there a [cake rack](object)
 - is there a [wire rack](object)
+- is there a [red](property) [light](object)
+- is there a [green](property) [light](object)
+- is there a [window](object)
